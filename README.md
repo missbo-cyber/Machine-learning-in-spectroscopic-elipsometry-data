@@ -9,3 +9,5 @@ For each algorithm, a dedicated code was prepared to predict the thickness of si
 Prediction accuracy was evaluated based on statistical measures of the developed algorithms: coefficient of determination, mean squared error, mean absolute error and symmetric mean absolute percentage error. 
 
 To analyze the prediction error, probability density plots were generated. It was observed that for the ψ parameter, regardless of the algorithm used, the plot follows a distribution closely resembling a normal distribution, indicating high prediction accuracy. In contrast, for the ε₂ parameter, the plot consists of two overlapping normal distributions.
+
+![Probability_density_plots.png]
