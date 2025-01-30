@@ -17,4 +17,5 @@ For a more detailed analysis of the aforementioned parameters, spectral curve pl
 ![Cannout upload the image](Spectral_curve_plots.png "Spectral curve plots")
 
 The highest prediction accuracy was achieved for the Ψ parameter using the random forest algorithm.
+
 In total, the results of over 200,000 predictions were analyzed.
