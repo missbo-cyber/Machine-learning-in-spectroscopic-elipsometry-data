@@ -13,3 +13,8 @@ To analyze the prediction error, probability density plots were generated. It wa
 ![Cannout upload the image](Probability_density_plots.png "Probability density plots")
 
 For a more detailed analysis of the aforementioned parameters, spectral curve plots were examined. It was observed that for the ψ parameter, the dispersion curves do not intersect, whereas for the ε₂ parameter, they intersect over a wide range of wavelengths. This could have contributed to a higher prediction error, as the algorithm detected multiple possible layer thickness values for a single wavelength.
+
+![Cannout upload the image](Spectral_curve_plots.png "Spectral curve plots")
+
+The highest prediction accuracy was achieved for the Ψ parameter using the random forest algorithm.
+In total, the results of over 200,000 predictions were analyzed.
