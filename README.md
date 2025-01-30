@@ -10,4 +10,4 @@ Prediction accuracy was evaluated based on statistical measures of the developed
 
 To analyze the prediction error, probability density plots were generated. It was observed that for the ψ parameter, regardless of the algorithm used, the plot follows a distribution closely resembling a normal distribution, indicating high prediction accuracy. In contrast, for the ε₂ parameter, the plot consists of two overlapping normal distributions.
 
-![Probability_density_plots.png]
+![Cannout upload the image](Probability_density_plots.png "Probability density plots")
